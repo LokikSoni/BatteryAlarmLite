@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battery Alarm Lite</string>
+
+    <string name="bannerMain">293970294596998_318164535510907</string>
+    <string name="bannerDialog">293970294596998_293983934595634</string>
+    <string name="interstitialService">293970294596998_293983047929056</string>
+</resources>

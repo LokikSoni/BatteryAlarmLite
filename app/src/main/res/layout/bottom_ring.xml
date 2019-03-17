@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00ffffff"
+    android:gravity="center">
+
+    <RadioGroup
+        android:id="@+id/ringGroup"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="60dp"
+        android:checkedButton="@+id/ring1"
+        android:background="@drawable/toggle_outline"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/ring1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toggle_theme"
+            android:button="@null"
+            android:gravity="center"
+            android:text="Celesta"
+            android:textColor="#ffffff"/>
+
+        <RadioButton
+            android:id="@+id/ring2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toggle_theme"
+            android:button="@null"
+            android:gravity="center"
+            android:text="Beep"
+            android:textColor="#ffffff"/>
+
+        <RadioButton
+            android:id="@+id/ring3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toggle_theme"
+            android:button="@null"
+            android:gravity="center"
+            android:text="Candy"
+            android:textColor="#ffffff"/>
+
+        <RadioButton
+            android:id="@+id/ring4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toggle_theme"
+            android:button="@null"
+            android:gravity="center"
+            android:text="Soft"
+            android:textColor="#ffffff"/>
+
+        <RadioButton
+            android:id="@+id/ring5"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/toggle_theme"
+            android:button="@null"
+            android:gravity="center"
+            android:text="Custom"
+            android:textColor="#ffffff"/>
+    </RadioGroup>
+
+</LinearLayout>

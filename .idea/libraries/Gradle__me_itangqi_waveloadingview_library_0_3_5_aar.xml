@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: me.itangqi.waveloadingview:library:0.3.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/8b3a8d28a4ebb02e426c13991bb4b6ba/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/8b3a8d28a4ebb02e426c13991bb4b6ba/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.itangqi.waveloadingview/library/0.3.5/440fd6d7ff8836ea90efb0896ed96fef1ffe2117/library-0.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

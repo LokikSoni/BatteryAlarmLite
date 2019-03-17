@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165376939650",
+    "firebase_url": "https://batteryalarmlite-a3250.firebaseio.com",
+    "project_id": "batteryalarmlite-a3250",
+    "storage_bucket": "batteryalarmlite-a3250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165376939650:android:16d7b1edc897e45b",
+        "android_client_info": {
+          "package_name": "www.androidghost.com.batteryandtheftalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165376939650-34shc9mhd1e0krb3p049m4db2m4efh3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.androidghost.com.batteryandtheftalarm",
+            "certificate_hash": "a85016738d9c1da07e17654b77559e0d25d4a67b"
+          }
+        },
+        {
+          "client_id": "165376939650-qtfvour5p39e4eatdjg0kqgtu1qidij1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvViz1W2owW4RGFOJT3glvnhevfHU3Y7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165376939650-qtfvour5p39e4eatdjg0kqgtu1qidij1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
