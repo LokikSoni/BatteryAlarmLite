@@ -47,6 +47,9 @@ public class ForegroundTheft extends Service {
     public void onCreate() {
         super.onCreate();
 
+        createNotification();
+        startForeground(102,mBuilderForeground.build());
+
         playTheft = MediaPlayer.create(this, Uri.parse("android.resource://"+getPackageName()+"/raw/celesta"));
 
         /*
@@ -107,7 +110,7 @@ public class ForegroundTheft extends Service {
                 .setContentText("Theft Activated")
                 .setPriority(NotificationCompat.PRIORITY_DEFAULT)
                 .setCategory(NotificationCompat.CATEGORY_ALARM)
-                .setColor(Color.parseColor("#26B360"))
+                .setColor(Color.parseColor("#1767B9"))
                 .setOnlyAlertOnce(true);
 
         PendingIntent contentIntent = PendingIntent.getActivity(this, 0,

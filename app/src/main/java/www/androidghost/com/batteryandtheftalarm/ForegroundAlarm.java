@@ -81,6 +81,11 @@ public class ForegroundAlarm extends Service {
     public void onCreate() {
         super.onCreate();
 
+
+        createNotification(mLevel);
+        startForeground(101,mBuilderForeground.build());
+
+
         interstitialAd = new InterstitialAd(this, getResources().getString(R.string.interstitialService));
         interstitialAd.loadAd();
         showAdWithDelay();
@@ -108,7 +113,7 @@ public class ForegroundAlarm extends Service {
                 .setContentText("Alarm Activated")
                 .setPriority(NotificationCompat.PRIORITY_DEFAULT)
                 .setCategory(NotificationCompat.CATEGORY_ALARM)
-                .setColor(Color.parseColor("#26B360"))
+                .setColor(Color.parseColor("#1767B9"))
                 .setProgress(100,mLevel,false)
                 .setOnlyAlertOnce(true);
 

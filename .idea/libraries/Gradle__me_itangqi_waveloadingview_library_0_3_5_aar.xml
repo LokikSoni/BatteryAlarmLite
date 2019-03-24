@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: me.itangqi.waveloadingview:library:0.3.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/8b3a8d28a4ebb02e426c13991bb4b6ba/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/8b3a8d28a4ebb02e426c13991bb4b6ba/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/9fcdfe4dc31bb66b42bad447e1667002/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/9fcdfe4dc31bb66b42bad447e1667002/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
