@@ -4,67 +4,67 @@ ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:2:1-78:12
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:2:1-78:12
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:2:1-78:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\410cf6423ff82e545c7c7359b8e0beb0\AndroidManifest.xml:17:1-24:12
-MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\9fcdfe4dc31bb66b42bad447e1667002\AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9773d3591d95a97070096b1b4a44182b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1a8271cf24c672181e12cf5d7b0d7b5c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:17:1-42:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c67bb2eaf291d867b7d2f6719d483e0b\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:2:1-20:12
-MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:2:1-15:12
-MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\04f72193e2ffe1dbc5b869fc03ebcf4a\AndroidManifest.xml:16:1-18:12
-MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:2:1-15:12
-MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\a8232695efe3934424a0e3265d25d5c9\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\f610a3edb0a5cedd0f26601e02b18e37\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:17:1-59:12
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\c6421404598b89c16fd31fb7667b1e15\AndroidManifest.xml:16:1-19:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\8797f8fa079f29d1252697b59ba6842a\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\cad50ef9272ac91b006eae2fbd1d49df\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\fb0b424fed1e8e4e504c16841f26353f\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:16:1-28:12
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\8012e4632883ff91cb9ecd1980d754fb\AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\18af1cf361f0108d0db245aee3d34cbb\AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\20d8c9eb59b80a9d3e7e3df8ed824ab1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\eceff9287a0baff7200f6f03725e54d6\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\4564c51e6200dd7bf21921f10c8adf9f\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c97c8778fc627dacc0a9d219e07dc0ba\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\25b35c9246db4a884666046167098a03\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a3692c4b4af4fe34c66bc1913c520d39\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\176a7b198d10e69c1081df9794def524\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1a7f561dcb1adab81bbee36c1727d650\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\98b22637af7d1245f2b08409fc4a0039\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7b90e78a8fe5a862e6a18daafe217100\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7abd1c5bed45b7f08f95597cc9e2c05a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\21b496cb11e58955c87738ee4792b659\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\dfc9ee29522d0a6c07e5bf37facf282d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3532c97a50fc335b1bfed346422e6aa6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0310b5ee718c80d27e9ff8a41691ae54\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bb7aea06ac6306fc36c692bc85adc152\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9b186714bb10bb1edb9ce4b5b2dfa8a9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4c29738229ead353c7a64e91d39bd4a6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\db3228a9db233d6a505143d055ff1631\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bc4f83e0a2e8a3d7aecf23534b3a978e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0c36dfa1519c073f59c702767b70bb2f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ce2a1d1bf0f35958c682a43c4aa21d3f\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\008d25416ddb7140d6e34bcd2830de5e\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5fd24ac8d0bf37160c9c6efd23eddb26\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\8d58ee87b7ee49d5bb2147d0f88d3768\AndroidManifest.xml:17:1-25:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\132f400811bf32cc6038dbe80c039a95\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\de9ad42ffc27f6a2cc92d5f5ae0be2b7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\712ee36eece68a158e2e2660953ae1e7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e5d9fe6c738c0dadc4b5b5e94e44b29f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\40ad18e9f5df299cec73bb16c9e32928\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\23f1a064e91fe52f224eb6199294548d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0fdc3d86df6c71558e685f785193d094\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1041322871df930d89af99b18df2fcc4\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1cb0c20152c5f0747bef94112a3e0a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\afc0b8e792ed8e6798b603998a6489db\AndroidManifest.xml:17:1-24:12
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\648b12362febccd77209fb66402064ec\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a377930bf2bc65ae8b1f27469c087e41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4be575e4d07365ffe15ed061a796ecf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\892ff9bc3e9ed1400eb3d698ae41933d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\7cae94d46774da42e612242968c199ba\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\831c188c023b9ab7f77888b3dc7679ac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\7f8ce402e4068e411d20bde1330b37d9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0fdf4b65f5d4c4e09b6918e57e82dbc9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\a4202f0fd29110efa8c6b1e0dbd195dd\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\acd75e07bf991bff11f7be40f459a2b9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7d80752d45db1a0a976faced22e0aafc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\0eb1b6b07afa101e137153c5ea04269e\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\f8a4770104924de3086fbe4649fac840\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\7e759898924b154e6e6bed9a43324c9a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\277fed43a851ca7f387464e5dd0c3a1d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\8775d2b579b2d64445aaea85eaab6ee6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\11d836906fde46d57aea3636abfab539\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2473e0c61ce01b47cc1338ffda191b2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\42d61af609c0893fd497472014f19412\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4b52dc3b48266501f606e2beabd3d806\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\40ff25cc8f22a007eae356d9b7456c2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\61b9bd924a52f880261ae24cbd9b6d5d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ebbc13e3d9c154c4c5697e2b57f962fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ed1daaea5b3c62077edd824be60f05cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\704d1833a6c824cfd47fd9981ab54c1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bf95f6d0f9e6b0b10f2d19280fe84ec7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4202835c6de42035706a02f0502c9000\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5a42f28a2fdbf0bd51fcc174e6c35385\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2beef7e6d88242d0d8072fb231813c59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f5a7c4cc036478fb33cbb677db5968a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\111a82c8763a671d6fd614dd9c5cf232\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4f9d7c20b4cbf0f1e575eae821e26a40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2824f5f5f5e8271cfbcd64f2965fc47c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8a4381e30fc91f7e47addde09300b9f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f813d4ee89205e64bd09060c15cf5c0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a394cb1a2f6520fa0e9def9fb14f0345\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cd0045b98b38938a9acfde916011fc89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\544e9c18eae66a50a8b9f421e07a24e5\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a12de78beaa294faedf31adcceabf2b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e9295335e5b664497c9e8b58a9a04adf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b888175be68ca5daedcb0fd3393d371c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8882c6a7faa537fd1b6ebe2ab14ecd32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bbf6d3acd41240abc3f91de7282c7281\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1c6b2e68ce65bb733c338555b97a89f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b0eb126c5557339193dc0b9ae054c16d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0e2c812f767095d240db803e5aa3febf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab8d442028ea8d84ba69f5305eafa61b\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:2:1-78:12
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:2:1-78:12
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:2:1-78:12
@@ -86,20 +86,20 @@ INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\m
 		ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:3:5-63
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:7:5-67
-MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:11:5-67
-MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:23:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.FOREGROUND_SERVICE
@@ -120,66 +120,66 @@ ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main
 		ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:11:22-78
 application
 ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:13:5-77:19
-MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\410cf6423ff82e545c7c7359b8e0beb0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\410cf6423ff82e545c7c7359b8e0beb0\AndroidManifest.xml:22:5-20
-MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\9fcdfe4dc31bb66b42bad447e1667002\AndroidManifest.xml:11:5-15:19
-MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\9fcdfe4dc31bb66b42bad447e1667002\AndroidManifest.xml:11:5-15:19
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:26:5-40:19
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:26:5-40:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c67bb2eaf291d867b7d2f6719d483e0b\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c67bb2eaf291d867b7d2f6719d483e0b\AndroidManifest.xml:9:5-20
-MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:14:5-18:19
-MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:14:5-18:19
-MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\a8232695efe3934424a0e3265d25d5c9\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\a8232695efe3934424a0e3265d25d5c9\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\f610a3edb0a5cedd0f26601e02b18e37\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\f610a3edb0a5cedd0f26601e02b18e37\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\c6421404598b89c16fd31fb7667b1e15\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\c6421404598b89c16fd31fb7667b1e15\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\8797f8fa079f29d1252697b59ba6842a\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\8797f8fa079f29d1252697b59ba6842a\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\cad50ef9272ac91b006eae2fbd1d49df\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\cad50ef9272ac91b006eae2fbd1d49df\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\fb0b424fed1e8e4e504c16841f26353f\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\fb0b424fed1e8e4e504c16841f26353f\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\8012e4632883ff91cb9ecd1980d754fb\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\8012e4632883ff91cb9ecd1980d754fb\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\18af1cf361f0108d0db245aee3d34cbb\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\18af1cf361f0108d0db245aee3d34cbb\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\20d8c9eb59b80a9d3e7e3df8ed824ab1\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\20d8c9eb59b80a9d3e7e3df8ed824ab1\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\eceff9287a0baff7200f6f03725e54d6\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\eceff9287a0baff7200f6f03725e54d6\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\4564c51e6200dd7bf21921f10c8adf9f\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\4564c51e6200dd7bf21921f10c8adf9f\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ce2a1d1bf0f35958c682a43c4aa21d3f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ce2a1d1bf0f35958c682a43c4aa21d3f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\008d25416ddb7140d6e34bcd2830de5e\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\008d25416ddb7140d6e34bcd2830de5e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\afc0b8e792ed8e6798b603998a6489db\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\afc0b8e792ed8e6798b603998a6489db\AndroidManifest.xml:22:5-20
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\648b12362febccd77209fb66402064ec\AndroidManifest.xml:11:5-15:19
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\648b12362febccd77209fb66402064ec\AndroidManifest.xml:11:5-15:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\892ff9bc3e9ed1400eb3d698ae41933d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\892ff9bc3e9ed1400eb3d698ae41933d\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:14:5-18:19
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:14:5-18:19
+MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\831c188c023b9ab7f77888b3dc7679ac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\831c188c023b9ab7f77888b3dc7679ac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\7f8ce402e4068e411d20bde1330b37d9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\7f8ce402e4068e411d20bde1330b37d9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0fdf4b65f5d4c4e09b6918e57e82dbc9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0fdf4b65f5d4c4e09b6918e57e82dbc9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\a4202f0fd29110efa8c6b1e0dbd195dd\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\a4202f0fd29110efa8c6b1e0dbd195dd\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\acd75e07bf991bff11f7be40f459a2b9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\acd75e07bf991bff11f7be40f459a2b9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7d80752d45db1a0a976faced22e0aafc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7d80752d45db1a0a976faced22e0aafc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\0eb1b6b07afa101e137153c5ea04269e\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\0eb1b6b07afa101e137153c5ea04269e\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\f8a4770104924de3086fbe4649fac840\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\f8a4770104924de3086fbe4649fac840\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\7e759898924b154e6e6bed9a43324c9a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\7e759898924b154e6e6bed9a43324c9a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\277fed43a851ca7f387464e5dd0c3a1d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\277fed43a851ca7f387464e5dd0c3a1d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\8775d2b579b2d64445aaea85eaab6ee6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\8775d2b579b2d64445aaea85eaab6ee6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f813d4ee89205e64bd09060c15cf5c0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f813d4ee89205e64bd09060c15cf5c0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a394cb1a2f6520fa0e9def9fb14f0345\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a394cb1a2f6520fa0e9def9fb14f0345\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ce2a1d1bf0f35958c682a43c4aa21d3f\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f813d4ee89205e64bd09060c15cf5c0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
@@ -193,7 +193,7 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gr
 	android:roundIcon
 		ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:19:9-48
 	android:allowBackup
-		ADDED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\9fcdfe4dc31bb66b42bad447e1667002\AndroidManifest.xml:12:9-35
+		ADDED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\648b12362febccd77209fb66402064ec\AndroidManifest.xml:12:9-35
 	android:icon
 		ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml:17:9-43
 	android:theme
@@ -294,128 +294,128 @@ uses-sdk
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\410cf6423ff82e545c7c7359b8e0beb0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\410cf6423ff82e545c7c7359b8e0beb0\AndroidManifest.xml:20:5-44
-MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\9fcdfe4dc31bb66b42bad447e1667002\AndroidManifest.xml:7:5-9:41
-MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\9fcdfe4dc31bb66b42bad447e1667002\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9773d3591d95a97070096b1b4a44182b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9773d3591d95a97070096b1b4a44182b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1a8271cf24c672181e12cf5d7b0d7b5c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1a8271cf24c672181e12cf5d7b0d7b5c\AndroidManifest.xml:20:5-44
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:22:5-24:41
-MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c67bb2eaf291d867b7d2f6719d483e0b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c67bb2eaf291d867b7d2f6719d483e0b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\04f72193e2ffe1dbc5b869fc03ebcf4a\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\04f72193e2ffe1dbc5b869fc03ebcf4a\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\a8232695efe3934424a0e3265d25d5c9\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\a8232695efe3934424a0e3265d25d5c9\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\f610a3edb0a5cedd0f26601e02b18e37\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\f610a3edb0a5cedd0f26601e02b18e37\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\c6421404598b89c16fd31fb7667b1e15\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\c6421404598b89c16fd31fb7667b1e15\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\8797f8fa079f29d1252697b59ba6842a\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\8797f8fa079f29d1252697b59ba6842a\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\cad50ef9272ac91b006eae2fbd1d49df\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\cad50ef9272ac91b006eae2fbd1d49df\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\fb0b424fed1e8e4e504c16841f26353f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\fb0b424fed1e8e4e504c16841f26353f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:22:5-42
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:22:5-42
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\8012e4632883ff91cb9ecd1980d754fb\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\8012e4632883ff91cb9ecd1980d754fb\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\18af1cf361f0108d0db245aee3d34cbb\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\18af1cf361f0108d0db245aee3d34cbb\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\20d8c9eb59b80a9d3e7e3df8ed824ab1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\20d8c9eb59b80a9d3e7e3df8ed824ab1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\eceff9287a0baff7200f6f03725e54d6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\eceff9287a0baff7200f6f03725e54d6\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\4564c51e6200dd7bf21921f10c8adf9f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\4564c51e6200dd7bf21921f10c8adf9f\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c97c8778fc627dacc0a9d219e07dc0ba\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c97c8778fc627dacc0a9d219e07dc0ba\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\25b35c9246db4a884666046167098a03\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\25b35c9246db4a884666046167098a03\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a3692c4b4af4fe34c66bc1913c520d39\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a3692c4b4af4fe34c66bc1913c520d39\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\176a7b198d10e69c1081df9794def524\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\176a7b198d10e69c1081df9794def524\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1a7f561dcb1adab81bbee36c1727d650\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1a7f561dcb1adab81bbee36c1727d650\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\98b22637af7d1245f2b08409fc4a0039\AndroidManifest.xml:21:5-23:41
-MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\98b22637af7d1245f2b08409fc4a0039\AndroidManifest.xml:21:5-23:41
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7b90e78a8fe5a862e6a18daafe217100\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7b90e78a8fe5a862e6a18daafe217100\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7abd1c5bed45b7f08f95597cc9e2c05a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7abd1c5bed45b7f08f95597cc9e2c05a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\21b496cb11e58955c87738ee4792b659\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\21b496cb11e58955c87738ee4792b659\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\dfc9ee29522d0a6c07e5bf37facf282d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\dfc9ee29522d0a6c07e5bf37facf282d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3532c97a50fc335b1bfed346422e6aa6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3532c97a50fc335b1bfed346422e6aa6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0310b5ee718c80d27e9ff8a41691ae54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0310b5ee718c80d27e9ff8a41691ae54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bb7aea06ac6306fc36c692bc85adc152\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bb7aea06ac6306fc36c692bc85adc152\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9b186714bb10bb1edb9ce4b5b2dfa8a9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9b186714bb10bb1edb9ce4b5b2dfa8a9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4c29738229ead353c7a64e91d39bd4a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\4c29738229ead353c7a64e91d39bd4a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\db3228a9db233d6a505143d055ff1631\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\db3228a9db233d6a505143d055ff1631\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bc4f83e0a2e8a3d7aecf23534b3a978e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bc4f83e0a2e8a3d7aecf23534b3a978e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0c36dfa1519c073f59c702767b70bb2f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0c36dfa1519c073f59c702767b70bb2f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ce2a1d1bf0f35958c682a43c4aa21d3f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ce2a1d1bf0f35958c682a43c4aa21d3f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\008d25416ddb7140d6e34bcd2830de5e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\008d25416ddb7140d6e34bcd2830de5e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5fd24ac8d0bf37160c9c6efd23eddb26\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5fd24ac8d0bf37160c9c6efd23eddb26\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\8d58ee87b7ee49d5bb2147d0f88d3768\AndroidManifest.xml:21:5-23:41
-MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\8d58ee87b7ee49d5bb2147d0f88d3768\AndroidManifest.xml:21:5-23:41
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\132f400811bf32cc6038dbe80c039a95\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\132f400811bf32cc6038dbe80c039a95\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\de9ad42ffc27f6a2cc92d5f5ae0be2b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\de9ad42ffc27f6a2cc92d5f5ae0be2b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\712ee36eece68a158e2e2660953ae1e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\712ee36eece68a158e2e2660953ae1e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e5d9fe6c738c0dadc4b5b5e94e44b29f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e5d9fe6c738c0dadc4b5b5e94e44b29f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\40ad18e9f5df299cec73bb16c9e32928\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\40ad18e9f5df299cec73bb16c9e32928\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\23f1a064e91fe52f224eb6199294548d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\23f1a064e91fe52f224eb6199294548d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0fdc3d86df6c71558e685f785193d094\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0fdc3d86df6c71558e685f785193d094\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1041322871df930d89af99b18df2fcc4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1041322871df930d89af99b18df2fcc4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1cb0c20152c5f0747bef94112a3e0a8d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1cb0c20152c5f0747bef94112a3e0a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\afc0b8e792ed8e6798b603998a6489db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\afc0b8e792ed8e6798b603998a6489db\AndroidManifest.xml:20:5-44
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\648b12362febccd77209fb66402064ec\AndroidManifest.xml:7:5-9:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\library-0.3.5.aar\648b12362febccd77209fb66402064ec\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a377930bf2bc65ae8b1f27469c087e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a377930bf2bc65ae8b1f27469c087e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4be575e4d07365ffe15ed061a796ecf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\4be575e4d07365ffe15ed061a796ecf7\AndroidManifest.xml:20:5-44
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\892ff9bc3e9ed1400eb3d698ae41933d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\892ff9bc3e9ed1400eb3d698ae41933d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\7cae94d46774da42e612242968c199ba\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.0.1.aar\7cae94d46774da42e612242968c199ba\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\831c188c023b9ab7f77888b3dc7679ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.8.aar\831c188c023b9ab7f77888b3dc7679ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\7f8ce402e4068e411d20bde1330b37d9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\7f8ce402e4068e411d20bde1330b37d9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0fdf4b65f5d4c4e09b6918e57e82dbc9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.0.1.aar\0fdf4b65f5d4c4e09b6918e57e82dbc9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\a4202f0fd29110efa8c6b1e0dbd195dd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\a4202f0fd29110efa8c6b1e0dbd195dd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\acd75e07bf991bff11f7be40f459a2b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\acd75e07bf991bff11f7be40f459a2b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7d80752d45db1a0a976faced22e0aafc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7d80752d45db1a0a976faced22e0aafc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\0eb1b6b07afa101e137153c5ea04269e\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.0.1.aar\0eb1b6b07afa101e137153c5ea04269e\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\f8a4770104924de3086fbe4649fac840\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-16.4.0.aar\f8a4770104924de3086fbe4649fac840\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\7e759898924b154e6e6bed9a43324c9a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\7e759898924b154e6e6bed9a43324c9a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\277fed43a851ca7f387464e5dd0c3a1d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.4.0.aar\277fed43a851ca7f387464e5dd0c3a1d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\8775d2b579b2d64445aaea85eaab6ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\8775d2b579b2d64445aaea85eaab6ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\11d836906fde46d57aea3636abfab539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\11d836906fde46d57aea3636abfab539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2473e0c61ce01b47cc1338ffda191b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2473e0c61ce01b47cc1338ffda191b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\42d61af609c0893fd497472014f19412\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\42d61af609c0893fd497472014f19412\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4b52dc3b48266501f606e2beabd3d806\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4b52dc3b48266501f606e2beabd3d806\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\40ff25cc8f22a007eae356d9b7456c2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\40ff25cc8f22a007eae356d9b7456c2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\61b9bd924a52f880261ae24cbd9b6d5d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.2.aar\61b9bd924a52f880261ae24cbd9b6d5d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ebbc13e3d9c154c4c5697e2b57f962fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ebbc13e3d9c154c4c5697e2b57f962fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ed1daaea5b3c62077edd824be60f05cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ed1daaea5b3c62077edd824be60f05cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\704d1833a6c824cfd47fd9981ab54c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\704d1833a6c824cfd47fd9981ab54c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bf95f6d0f9e6b0b10f2d19280fe84ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bf95f6d0f9e6b0b10f2d19280fe84ec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4202835c6de42035706a02f0502c9000\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4202835c6de42035706a02f0502c9000\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5a42f28a2fdbf0bd51fcc174e6c35385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5a42f28a2fdbf0bd51fcc174e6c35385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2beef7e6d88242d0d8072fb231813c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2beef7e6d88242d0d8072fb231813c59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f5a7c4cc036478fb33cbb677db5968a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f5a7c4cc036478fb33cbb677db5968a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\111a82c8763a671d6fd614dd9c5cf232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\111a82c8763a671d6fd614dd9c5cf232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4f9d7c20b4cbf0f1e575eae821e26a40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4f9d7c20b4cbf0f1e575eae821e26a40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2824f5f5f5e8271cfbcd64f2965fc47c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2824f5f5f5e8271cfbcd64f2965fc47c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8a4381e30fc91f7e47addde09300b9f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\8a4381e30fc91f7e47addde09300b9f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f813d4ee89205e64bd09060c15cf5c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f813d4ee89205e64bd09060c15cf5c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a394cb1a2f6520fa0e9def9fb14f0345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a394cb1a2f6520fa0e9def9fb14f0345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cd0045b98b38938a9acfde916011fc89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cd0045b98b38938a9acfde916011fc89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\544e9c18eae66a50a8b9f421e07a24e5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.2.aar\544e9c18eae66a50a8b9f421e07a24e5\AndroidManifest.xml:21:5-23:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a12de78beaa294faedf31adcceabf2b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a12de78beaa294faedf31adcceabf2b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e9295335e5b664497c9e8b58a9a04adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e9295335e5b664497c9e8b58a9a04adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b888175be68ca5daedcb0fd3393d371c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b888175be68ca5daedcb0fd3393d371c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8882c6a7faa537fd1b6ebe2ab14ecd32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8882c6a7faa537fd1b6ebe2ab14ecd32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bbf6d3acd41240abc3f91de7282c7281\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bbf6d3acd41240abc3f91de7282c7281\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1c6b2e68ce65bb733c338555b97a89f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\1c6b2e68ce65bb733c338555b97a89f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b0eb126c5557339193dc0b9ae054c16d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b0eb126c5557339193dc0b9ae054c16d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0e2c812f767095d240db803e5aa3febf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0e2c812f767095d240db803e5aa3febf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab8d442028ea8d84ba69f5305eafa61b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab8d442028ea8d84ba69f5305eafa61b\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -427,206 +427,206 @@ INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\m
 		ADDED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\HackMe\AndroidStudioProjects\Battery Alarm Lite\app\src\main\AndroidManifest.xml
 service#com.firebase.jobdispatcher.GooglePlayReceiver
-ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:32:9-39:19
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:32:9-39:19
 	android:exported
-		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:34:13-36
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:34:13-36
 	android:permission
-		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:35:13-93
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:35:13-93
 	android:name
-		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:33:13-73
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:33:13-73
 intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
-ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:36:13-38:29
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:36:13-38:29
 action#com.google.android.gms.gcm.ACTION_TASK_READY
-ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:37:17-87
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:37:17-87
 	android:name
-		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\61856b970cf4b21c9a2a48e6ca9029f8\AndroidManifest.xml:37:25-84
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\23c5699455713a705ac6180c18b13668\AndroidManifest.xml:37:25-84
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:24:5-79
+ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:12:22-76
+		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:12:22-76
 activity#com.facebook.ads.AudienceNetworkActivity
-ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:15:9-17:77
+ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:15:9-17:77
 	android:configChanges
-		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:17:13-74
+		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:17:13-74
 	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\22b7207fe95325e008f792569a7cdb0a\AndroidManifest.xml:16:13-68
+		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\audience-network-sdk-5.0.0.aar\c8c1f5843185caf581555b53f0521a58\AndroidManifest.xml:16:13-68
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:8:9-12:19
-MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:8:9-12:19
-MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:8:9-12:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:29:9-35:19
+ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:29:13-37
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:8:18-89
+		ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
-ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:9:13-11:85
+ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:11:17-82
+		ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\ddb13d4e40489a07ef516e56efb6bcc5\AndroidManifest.xml:10:17-117
+		ADDED from [com.google.firebase:firebase-config:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-config-16.4.0.aar\a005db0d7af7ba8e12363851ad3b02b9\AndroidManifest.xml:10:17-117
 meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
-ADDED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:9:13-11:85
+ADDED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:11:17-82
+		ADDED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\9b59fb7f8582f960b1e812ab6bcd5492\AndroidManifest.xml:10:17-109
+		ADDED from [com.google.firebase:firebase-abt:17.1.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-abt-17.1.0.aar\5e1104182bc0647caa32a1775e055a8f\AndroidManifest.xml:10:17-109
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\4f3b3e87b58b7d8c8f3083a5a293bd54\AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\1b055192909140736ec324e1e09d164c\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:24:22-65
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:32:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\1aa7dc28dedebc833334974edb5224a1\AndroidManifest.xml:31:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\270a9ca036cd4a8f75262d252d605909\AndroidManifest.xml:31:17-139
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:26:22-79
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:33:17-96
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:33:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:37:9-44:20
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:37:9-44:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:39:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:39:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:40:13-73
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:40:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:38:13-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:38:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:41:13-43:29
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:41:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:42:17-81
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:42:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:42:25-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:42:25-78
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:50:9-56:19
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:50:9-56:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:52:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:51:13-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:51:13-77
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:53:13-55:29
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:53:13-55:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:53:28-51
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:53:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:54:17-80
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:54:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\0c5cf752fbd7d3005ad2f83b6a6555bb\AndroidManifest.xml:54:25-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\af4207c13dc73b73690613f60cc4ddd7\AndroidManifest.xml:54:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:10:9-14:39
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:10:9-14:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:12:13-72
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:12:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:13:13-37
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:13:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:14:13-36
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\27ea74156cf6af923ac808b344e60782\AndroidManifest.xml:11:13-77
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\bb1bfe4d57c7acb70ac871346f36ec3f\AndroidManifest.xml:11:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\66476ee5976cb880b5661c012c033dcd\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\e91362c25e120a1d427e03cc7fdc3b23\AndroidManifest.xml:24:13-79
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\8e5d4aa1bee10633c2dfa0983c03f5bf\AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.0.1.aar\76639893db5bb6f8c6d416196b198ec7\AndroidManifest.xml:26:19-91
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\8204eb018a18cca440d7dc78d17c480c\AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\730e7cde58b6157fd17828a0ba9d21b2\AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:36:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:37:13-36
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:38:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:35:13-100
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:40:17-79
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:40:25-76
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:46:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:47:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:45:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:50:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:51:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:52:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\ee707f541a478e055eec85bec64f35ee\AndroidManifest.xml:49:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-measurement-16.4.0.aar\4733753a186bd69bc644920b8a4d90bd\AndroidManifest.xml:49:13-87
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\8e210cef6b425a7beaa67c4e452e440c\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\HackMe\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\525f3802961f1cf3d89bdcc32231a069\AndroidManifest.xml:24:13-58

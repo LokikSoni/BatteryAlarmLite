@@ -4,58 +4,7 @@
             "outputFile": "C:\\Users\\HackMe\\AndroidStudioProjects\\Battery Alarm Lite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\8e210cef6b425a7beaa67c4e452e440c\\res\\values-sr\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "188",
-                        "endOffsets": "435"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4046",
-                        "endColumns": "188",
-                        "endOffsets": "4230"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-10.0.1.aar\\04f72193e2ffe1dbc5b869fc03ebcf4a\\res\\values-sr\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "237,307,446,552,653,759,864,963,1031,1170",
-                        "endColumns": "69,138,105,100,105,104,98,67,138,86",
-                        "endOffsets": "306,445,551,652,758,863,962,1030,1169,1256"
-                    },
-                    "to": {
-                        "startLines": "29,48,49,50,51,52,53,54,57,58",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2821,5554,5697,5807,5912,6022,6131,6234,6491,6634",
-                        "endColumns": "73,142,109,104,109,108,102,71,142,90",
-                        "endOffsets": "2890,5692,5802,5907,6017,6126,6229,6301,6629,6720"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ce2a1d1bf0f35958c682a43c4aa21d3f\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "6390",
-                        "endColumns": "100",
-                        "endOffsets": "6486"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9773d3591d95a97070096b1b4a44182b\\res\\values-sr\\values-sr.xml",
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a377930bf2bc65ae8b1f27469c087e41\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\66476ee5976cb880b5661c012c033dcd\\res\\values-sr\\values.xml",
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7f813d4ee89205e64bd09060c15cf5c0\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "6390",
+                        "endColumns": "100",
+                        "endOffsets": "6486"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\e91362c25e120a1d427e03cc7fdc3b23\\res\\values-sr\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -86,6 +52,40 @@
                         "startOffsets": "2895,3003,3191,3319,3431,3644,3773,3915,4235,4443,4552,4743,4872,5080,5252,5350,5445",
                         "endColumns": "107,187,127,111,212,128,141,130,207,108,190,128,207,171,97,94,108",
                         "endOffsets": "2998,3186,3314,3426,3639,3768,3910,4041,4438,4547,4738,4867,5075,5247,5345,5440,5549"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-10.0.1.aar\\7cae94d46774da42e612242968c199ba\\res\\values-sr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "237,307,446,552,653,759,864,963,1031,1170",
+                        "endColumns": "69,138,105,100,105,104,98,67,138,86",
+                        "endOffsets": "306,445,551,652,758,863,962,1030,1169,1256"
+                    },
+                    "to": {
+                        "startLines": "29,48,49,50,51,52,53,54,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2821,5554,5697,5807,5912,6022,6131,6234,6491,6634",
+                        "endColumns": "73,142,109,104,109,108,102,71,142,90",
+                        "endOffsets": "2890,5692,5802,5907,6017,6126,6229,6301,6629,6720"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\525f3802961f1cf3d89bdcc32231a069\\res\\values-sr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4046",
+                        "endColumns": "188",
+                        "endOffsets": "4230"
                     }
                 }
             ]

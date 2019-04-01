@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\HackMe\\AndroidStudioProjects\\Battery Alarm Lite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ce2a1d1bf0f35958c682a43c4aa21d3f\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7f813d4ee89205e64bd09060c15cf5c0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9773d3591d95a97070096b1b4a44182b\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a377930bf2bc65ae8b1f27469c087e41\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

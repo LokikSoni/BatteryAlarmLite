@@ -4,17 +4,7 @@
             "outputFile": "C:\\Users\\HackMe\\AndroidStudioProjects\\Battery Alarm Lite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9773d3591d95a97070096b1b4a44182b\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\dfc9ee29522d0a6c07e5bf37facf282d\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\bf95f6d0f9e6b0b10f2d19280fe84ec7\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HackMe\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a377930bf2bc65ae8b1f27469c087e41\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

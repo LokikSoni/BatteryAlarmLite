@@ -117,9 +117,13 @@ public class ForegroundAlarm extends Service {
                 .setProgress(100,mLevel,false)
                 .setOnlyAlertOnce(true);
 
-        PendingIntent contentIntent = PendingIntent.getActivity(this, 0,
-                new Intent(this, MainActivity.class), PendingIntent.FLAG_UPDATE_CURRENT);
-        mBuilderForeground.setContentIntent(contentIntent);
+        try {
+            PendingIntent contentIntent = PendingIntent.getActivity(this, 0,
+                    new Intent(this, MainActivity.class), PendingIntent.FLAG_UPDATE_CURRENT);
+            mBuilderForeground.setContentIntent(contentIntent);
+        }catch (RuntimeException e){
+            e.printStackTrace();
+        }
     }
 
 
